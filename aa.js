@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-            
+
 export default class linksa extends Component {
   render() {
     return (
@@ -23,7 +23,7 @@ export default class linksa extends Component {
           To get started, edit index.ios.js
         </Text>
         <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
+          Press 123 Cmd+R to reload,{'\n'}
           Cmd+D or shake for dev menu
         </Text>
       </View>
